@@ -43,5 +43,5 @@ void btnPush()
 
 void btnLongPress()
 {
-    currentLED->blink(500); // Nhấp nháy LED hiện tại với chu kỳ 500ms
+    currentLED->blink(200); // Nhấp nháy LED hiện tại với chu kỳ 200ms
 }
